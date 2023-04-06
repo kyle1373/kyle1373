@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Kyle, a machine learning researcher and software engineer. I'm currently pursuing my M.S. in Machine Learning and Data Science at UC San Diego.
+I'm Kyle, a machine learning researcher and software engineer. I'm currently pursuing my M.S. in Machine Learning and Data Science at the University of California, San Diego.
 
 - 🔭 I’m currently working on https://www.mariokartcentral.com and https://momentevents.app.
 - 🌱 I’m currently studying machine learning and data science.
