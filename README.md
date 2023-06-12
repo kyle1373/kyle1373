@@ -6,4 +6,4 @@ I'm Kyle, a machine learning researcher and software engineer. I'm currently pur
 - 📫 Feel free to email me at kwade@ucsd.edu or kylewade13731@gmail.com (I check both).
 - ⚡ Fun fact: I know 300+ digits of pi (ask me to recite them!)
 
-# [Visit My Website 😃](kylewade.dev)
+# [Visit My Website 😃](https://kylewade.dev)
