@@ -1,4 +1,4 @@
-# [My Website](https://kylewade.dev)
+## [My Website](https://kylewade.dev)
 
 I'm Kyle, a machine learning researcher and software engineer. I'm currently pursuing my M.S. in Machine Learning and Data Science at the University of California, San Diego.
 
