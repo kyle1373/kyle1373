@@ -1,3 +1,5 @@
 I'm Kyle, a machine learning researcher and software engineer.
 
-I am currently building https://mariokartcentral.com (Competitive Mario Kart website), https://where2be.app (Event platform for universities), and https://osucapital.com (Stock market which uses quantitative analysis to rank osu! players as stocks for people to invest in)
+I am currently building a bunch of things, one of which is osu! capital (https://osucapital.com), a viritual stock market which uses quantitative analysis to rank osu! players as stocks for people to invest in. Currently, the platform has +15,000 daily active users.
+
+I build a ton of SaaS products. If you're interested in contacting me, email me: kwade@ucsd.edu
