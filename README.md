@@ -11,8 +11,8 @@
 
 - I love skiing, hiking, competing in 8 ball, playing Chess, and raising dogs.
 - I'm currently developing [Archiverse](https://github.com/kyle1373/archiverse), the largest Miiverse archive on the internet.
-- I know 300+ digits of Pi by memory (ask me to recite them sometime!)
-- I'm looking for fulltime opportunities starting in June 2025. Feel free to check my resume [here](https://kyle1373.github.io/kyle1373/resume) :)
+- I know 300+ digits of Pi by memory (ask me to recite them!)
+- I'm looking for fulltime software engineering roles starting in June 2025. Feel free to check my resume [here](https://kyle1373.github.io/kyle1373/resume) :)
 
 <br>
 
