@@ -9,9 +9,9 @@
 
 <br>
 
-- love skiing, hiking, playing billiards, and raising dogs.
-- currently developing [Archiverse](https://github.com/kyle1373/archiverse), the largest Miiverse archive on the internet.
-- looking for fulltime opportunities after I graduate from university. feel free to check my resume [here](https://kyle1373.github.io/kyle1373/resume).
+- I love skiing, hiking, playing billiards, and raising dogs.
+- I'm currently developing [Archiverse](https://github.com/kyle1373/archiverse), the largest Miiverse archive on the internet.
+- I'm looking for fulltime opportunities starting in June 2025. Feel free to check my resume [here](https://kyle1373.github.io/kyle1373/resume) :)
 
 <br>
 
