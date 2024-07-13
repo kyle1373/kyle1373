@@ -9,10 +9,10 @@
 
 <br>
 
-- I love skiing, hiking, competing in 8 ball, playing chess, and raising dogs.
-- I'm currently developing [Archiverse](https://github.com/kyle1373/archiverse), the largest Miiverse archive on the internet.
+- I love skiing, hiking, competing in 8 ball, playing chess, and raising dogs
+- I'm currently developing [Archiverse](https://github.com/kyle1373/archiverse), the largest Miiverse archive on the internet
 - I can recite 300+ digits of pi by memory (ask me to recite them!)
-- I'm looking for fulltime software engineering roles starting in June 2025. Feel free to check out my resume [here](https://kyle1373.github.io/kyle1373/resume) :)
+- I'm looking for fulltime software engineering roles starting in June 2025. Feel free to check out my resume [here](https://kyle1373.github.io/kyle1373/resume)
 
 <br>
 
