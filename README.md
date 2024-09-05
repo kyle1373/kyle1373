@@ -10,7 +10,7 @@
 <br>
 
 - I love skiing, hiking, playing 8 ball (billiards), competing in chess, raising dogs, and other things
-- I'm currently developing [Archiverse](https://github.com/kyle1373/archiverse), the largest Miiverse archive on the internet
+- I'm currently developing [StreamQuest](https://streamquest.gg), a live entertainment platform
 - I can recite 300+ digits of pi by memory (ask me!)
 - Feel free to check out my resume [here](https://kyle1373.github.io/kyle-wade-resume)
 
